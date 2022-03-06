@@ -7,7 +7,6 @@ import static org.junit.Assert.assertTrue;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-
 /**
  * Unit test for simple App.
  */
