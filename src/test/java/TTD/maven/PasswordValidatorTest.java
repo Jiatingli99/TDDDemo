@@ -19,7 +19,7 @@ public class PasswordValidatorTest
     public void TestPasswordLength()
     {
     	
-    	Assert.assertEquals( true, PasswordValidator.isValid("Ahgu11"));
+    	Assert.assertEquals( true, PasswordValidator.isValid("Abc1233"));
 
         
     }
